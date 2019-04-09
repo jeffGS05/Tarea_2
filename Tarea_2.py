@@ -1,3 +1,13 @@
+######### Crear líneas de código en Python que calcule el promedio de los valores contenidos en una lista.#####
+
+New_list = [27,45,87,23,45,65]
+def Average(New_list):
+    return sum(New_list) / len(New_list)
+
+average = Average(New_list)
+# Printing average of the list
+print("Average of the New_ list is =", round(average, 2))
+
 ### Escriba un código en python que determine cual grupo de personas contiene la mayor de todas las alturas de todas las personas ###
 
 group1 =[177,145,167,190,140,150,180,130]

@@ -26,3 +26,13 @@ print("Group4, " + str(round(average4, 2)))
 
 highestscore = max((average1,average2,average3,average4))
 print("The group with the people most tall is the group2 with",  highestscore)
+#############################################
+Ouput 
+
+Group1, 159.88
+Group2, 172.88
+Group3, 150.75
+Group4, 160.62
+The group with the people most tall is the group2 with 172.875
+
+Process finished with exit code 0
